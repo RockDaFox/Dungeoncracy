@@ -2,7 +2,7 @@ local _, addon = ...
 
 local frame = CreateFrame("Frame")
 
-local waitTime = 10 -- 5 min 
+local waitTime = 300 -- 5 min to wait to start the vote
 
 local CHALLENGE_MODE_COMPLETED = "CHALLENGE_MODE_COMPLETED"
 local CHALLENGE_MODE_START = "CHALLENGE_MODE_START"
