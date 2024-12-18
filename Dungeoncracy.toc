@@ -1,7 +1,7 @@
-## Interface: 110005
+## Interface: 110005, 110007
 ## Title: Dungeoncracy
 ## Author: RockDaFox
-## Version: 1.0.0
+## Version: 1.0.1
 
 core.lua
 utils.lua
